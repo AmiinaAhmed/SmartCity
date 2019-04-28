@@ -1,0 +1,107 @@
+{
+  "sources": [
+    {
+      "name": "Leeds City Council", 
+      "email": "highways@leeds.gov.uk"
+    }
+  ], 
+  "extras": {
+    "dp_modified": "2015-08-26T13:28:44", 
+    "update_frequency_text": "Annually", 
+    "attribution": "<p>Click this link for information: <a href=\"http://www.leeds.gov.uk/opendata/Pages/Licences.aspx\" target=\"_blank\" rel=\"nofollow\">http://www.leeds.gov.uk/opendata/Pages/Licences.aspx</a>\r\n</p>", 
+    "email_notify_author": true, 
+    "temporal_coverage_to": "31/12/2009", 
+    "technical_documentation": "", 
+    "temporal_coverage_from": "01/01/2009", 
+    "next_review_date": "30/04/2016", 
+    "email_notify_maintainer": true, 
+    "odi-certificate": "", 
+    "license_text": "", 
+    "is_developer_dataset": false, 
+    "dp_created": "2014-03-06T09:18:18"
+  }, 
+  "description": "<blockquote>\r\n<p>Information on accidents across Leeds. Data includes location, number of people and vehicles involved, road surface, weather conditions and severity of any casualties.</p>\r\n<h2>Please note</h2>\r\n<ul>\r\n<li>The Eastings and Northings are generated at the roadside where the accident occurred. Sometimes due to poor internet connectivity this data is may not be as accurate as it could be. If you notice any errors please contact accident.studies@leeds.gov.uk.</li>\r\n</ul>\r\n<h2>Further Information</h2>\r\n<ul>\r\n<li>Please see the guidance document for further information on categories.</li>\r\n</ul>\r\n</blockquote>", 
+  "license": {
+    "url": "http://reference.data.gov.uk/id/open-government-licence", 
+    "type": "uk-ogl", 
+    "title": "UK Open Government Licence (OGL)"
+  }, 
+  "title": "Road traffic accidents", 
+  "keywords": [
+    "Transport", 
+    "accident", 
+    "bicycle", 
+    "car", 
+    "cd", 
+    "cycle", 
+    "cycling", 
+    "hack my route", 
+    "pedestrian", 
+    "road", 
+    "traffic", 
+    "vehicles"
+  ], 
+  "author": {
+    "name": "Highways", 
+    "email": "highways@leeds.gov.uk"
+  }, 
+  "resources": [
+    {
+      "hash": "72892d432376b27979a1c783cfb9d76e", 
+      "description": "Road traffic accidents", 
+      "title": "2014", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/accidents2014.csv", 
+      "name": "2014"
+    }, 
+    {
+      "hash": "b50eb40e8067cfbe245817fc44f6d2ec", 
+      "description": "Guidance information to support the accidents datasets", 
+      "title": "Guidance", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/accidentsguidance.csv", 
+      "name": "guidance"
+    }, 
+    {
+      "hash": "0619d0f8955968b217aea87693aac230", 
+      "description": "Road traffic accidents", 
+      "title": "2013", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/accidents2013.csv", 
+      "name": "2013"
+    }, 
+    {
+      "hash": "d134e81bf0f80b9ee29a5443c591b518", 
+      "description": "Road traffic accidents", 
+      "title": "2012", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/leeds-2012.csv", 
+      "name": "2012"
+    }, 
+    {
+      "hash": "1618c41e16ebd9be42c985b1e528123b", 
+      "description": "Road traffic accidents", 
+      "title": "2011", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/leeds-2011.csv", 
+      "name": "2011"
+    }, 
+    {
+      "hash": "d97f57648f0d7b8c97cd181e0d70c8ee", 
+      "description": "Road traffic accidents", 
+      "title": "2010", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/leeds-2010.csv", 
+      "name": "2010"
+    }, 
+    {
+      "hash": "81b2c5bf3bd410650e38819a65144b3a", 
+      "description": "Road traffic accidents", 
+      "title": "2009", 
+      "format": "CSV", 
+      "path": "https://aql.datapress.com/leeds/dataset/road-traffic-accidents/leeds-2009.csv", 
+      "name": "2009"
+    }
+  ], 
+  "name": "road-traffic-accidents"
+}
