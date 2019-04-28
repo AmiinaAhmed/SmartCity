@@ -1,0 +1,9 @@
+Accumulated Results for all Parsed files:
+
+Average UCS cost for all data sets (in an 80-day simulation period): 
+
+	[104.56875000000002]
+
+Average IDA* cost for all data sets (in an 80-day simulation period): 
+
+	[109.66375000000001]
