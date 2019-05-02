@@ -5,4 +5,7 @@ One of the recent technologies that has a huge potential to enhance smart city s
 # Project Proposal 
 https://docs.google.com/document/d/1mtOLcMbXkb4csHZnv7tYTcxsopPVDUFDKhvOKTrBGFo/edit?usp=sharing
 
+# Project Documentation
+https://docs.google.com/document/d/1RgXWvYoYw5NIk9SWG2siOwLAOM2u58zKbcRFL_YeGc8/edit#heading=h.nj23sjpj5u97
+
 
