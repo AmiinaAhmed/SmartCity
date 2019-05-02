@@ -16,9 +16,11 @@ An effective chart is one which:
 - Aesthetics support the information rather than overshadow it.
 - Not overloaded with information.
 
-ِِAnd represented  solution of  one big problems faced to UK county. (Traffic Problem) Using Algorithms To  finding the shortest path for Virtual map of the state. taking in account the Traffic Costs in 80 days Predictions that each of the available roads have (based on their traffic levels). implementing two algorithms in order to find a solution to the problem :
- UCS: Uniform-Cost Search : https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/
- IDA*: Iterative Deepening A* : https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
+ِِAnd represented  solution of  one big problems faced to UK county. (Traffic Problem) Using Algorithms To  finding the shortest path for Virtual map of the state. taking in account the Traffic Costs in 80 days Predictions that each of the available roads have (based on their traffic levels).
+implementing two algorithms in order to find a solution to the problem :
+ - UCS: Uniform-Cost Search : https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/
+ 
+ - IDA*: Iterative Deepening A* : https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
 
 Shown different paths ex. (path1,path2,....) as virtual map and the solution.
 
